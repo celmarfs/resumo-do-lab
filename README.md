@@ -5,12 +5,12 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 - Sumário
  - 1- Introdução ao Ambiente Cloud
-    1.1 Introdução ao Azure Essentials com a Microsoft
-    1.2 Introdução a Computaçao em Nuvem
-      1.2.1 Introdução
-      1.2.2 Computação em Nuvem
-      1.2.3 Material de Apoio
-    1.3 Versionamento de Código com o Git e GitHub
+    -1.1 Introdução ao Azure Essentials com a Microsoft
+    -1.2 Introdução a Computaçao em Nuvem
+      -1.2.1 Introdução
+      -1.2.2 Computação em Nuvem
+      -1.2.3 Material de Apoio
+    -1.3 Versionamento de Código com o Git e GitHub
       1.3.1 Visão Geral do Curso e Ferramentas
       1.3.2 Instalação, configuração e Autenticação
       1.3.3 Primeiros Passos com Git e GitHub
