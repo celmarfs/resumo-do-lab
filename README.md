@@ -4,7 +4,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Após a conclusão do curso, será registrado aqui um resumo das lições aprendidas.
 
 - Sumário
-  1- Introdução ao Ambiente Cloud
+ - 1- Introdução ao Ambiente Cloud
     1.1 Introdução ao Azure Essentials com a Microsoft
     1.2 Introdução a Computaçao em Nuvem
       1.2.1 Introdução
